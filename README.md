@@ -1,1 +1,1 @@
-# state-estimation-and-localization-course
+# state-estimation-and-localization
